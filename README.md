@@ -1,0 +1,1 @@
+A simple PHP script to insert variables into an SQL database and retreive the information.
